@@ -1,12 +1,12 @@
-## Hi there 👋
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<!--
+<img align="center" src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" style="border-radius: 10px;"/>
 
-**Here are some ideas to get you started:**
+---------
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details open align="center">
+<summary><b>↓ Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://www.instagram.com/yusupk._"><img alt="Cute Count" src="https://count.getloli.com/get/@NeofetchNpc?theme=rule34"/></a>
+</details>
+</div>
